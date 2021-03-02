@@ -10116,3 +10116,15 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.eng-version{
+  color: white;
+  font-weight: bold;
+}
+
+.eng-icon{
+  color: darkred;
+
+}.pt-icon{
+   color: yellowgreen;
+ }
