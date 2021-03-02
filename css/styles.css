@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #5f9ea0;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #3d6667;
   text-decoration: underline;
 }
 
@@ -451,6 +451,10 @@ mark,
 
 .list-inline-item {
   display: inline-block;
+}
+.list-inline-item:hover {
+  display: inline-block;
+  color: cadetblue;
 }
 .list-inline-item:not(:last-child) {
   margin-right: 0.5rem;
@@ -6075,7 +6079,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: cadetblue !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9777,11 +9781,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: cadetblue !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #824027 !important;
+  color: cadetblue !important;
 }
 
 .text-secondary {
